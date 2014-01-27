@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #####################################################################
 # Library: daemon.py
-# Author: Sandar Marechal
+# Author: Sander Marechal
 #
 # Modified By: Cody Lane
 #
